@@ -1,0 +1,62 @@
+.body {
+
+    background-color: black;
+}
+.navbar {
+    background-color:black;
+    color: #FFC94A;
+}
+.wrapper{
+    /* margin: 0 auto; */
+}
+/* styling the navigation bar */
+.FirstHeader{
+    display: flex;
+}
+#headerSection {
+    text-align: justify;
+    align-items: center;
+    /* font-family: "Nunito Sans", sans-serif; */
+    background-color: black;
+    color: #B67352;
+    display:flex
+}
+.navbar ul {
+    list-style-type: none;
+}
+
+.navbar li {
+    display: inline;
+}
+
+.navbar a {
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    color: #FFC94A;
+}
+
+.navbar a:hover {
+    background-color: B67352;
+    color:#FFEBB2;
+}
+
+#skills{
+    text-align: center;
+    margin: 0;
+    
+
+}
+.Skills_Levels{
+  
+}
+
+#About{
+    text-align: justify;
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+#cards{
+   
+}
